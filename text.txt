@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>
+        my webpage
+    </title>
+</head>
+<body style ="border:2px solid black; background-color:hsl(120 ,100%,30%,0.5)">
+    <h1 style ="color:purple">The flowers </h1>
+    <p><cite>
+        Welcome to florah garden.</cite>Every flower you want to get you will get in this garden
+    </p>
+    <br>
+    <script>hello world</script>
+    <!--comment 1-->
+    <h2>
+        Section abouroses
+    </h2>
+    <p><blockquote cite="http://www.worldwildlife.org/who/index.html">what flowers are?</blockquote></p>
+    <p>flowers are sign of <q>life</q> and <q>love</q></p>
+    <p>all about <abbr title ="World Health Organization ">WHO</abbr>encourage more </p>
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnOuKt9d2imdd1Y3N4319soN3stGyb1lYnQ&usqp=CAU">
+    <br>
+    <p><bdo dir="rtl">Rose flowers are so sweet</bdo> </p>
+    <ul>
+    <li><a href="#flowers">flower section </a>
+    <li><a href="#rose">rose</a></li>
+    <li><a href="#ivy">ivy</a></li>
+    <li><a href="#lily">lily</a></li>
+    </ul>
+    <p><a name ="flowers ">this is flower section </a></p>
+
+    <p><a name="rose">this is about rose</a></p>
+
+    <p><a name="ivy">this is about ivy</a></p>
+    <p><a name="lily">this is about lily</a></p>
+    <form ><input type="text" name=" ">
+    </form >
+   <!-- <table >-->
+    <!--<tr>-->
+    <!--<th>rose</th>-->
+    <!--<th>ivy</th>-->
+    <!--<th>lily</th>-->
+    <!--</tr>-->
+
+    <!--<tr>-->
+    <!--<td>25000</td>-->
+    <!--<td>100000</td>-->
+    <!--<td>125000</td>-->
+    <!--</tr>-->
+    <!--</table>-->
+    
+    <p>please click this
+    <a href="https://www.countryliving.com/gardening/g3280/flower-pictures/">see more </a>
+    </a>
+    <address>
+    written by Flora Urio<br>
+    visit me at<br>
+    floradominic@icloud.com<br>
+    box 1210,florish<br>
+    Tanzania 
+    </address >
+    
+
+    </body>
+
+
+ *My favorite app::html+css+js  https://itunes.apple.com/app/id908054939?mt=8
+Other's Tutorals:http://iii9i.com
